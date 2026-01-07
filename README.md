@@ -20,6 +20,7 @@ In this guide, I'll walk you through setting up **WireGuard VPN** on a Virtual P
 ### What You'll Need
 
 - A VPS running Ubuntu 22.04 or later (from providers like DigitalOcean, Linode, Vultr, etc.)
+I am using Hostinger (https://hostinger.com?REFERRALCODE=XQEMUNNA7BET) Which is fast and more cheaper than all providers mentioned above.
 - SSH access to your VPS (root or sudo privileges)
 - WireGuard client for your devices
 - About 20-30 minutes of your time
